@@ -3,9 +3,9 @@ DoA R&E code + paper
 Multi channel audio CNN based DoA model with augmentation  
 * python: pytorch used  
 * keyword  
- - CNN based DoA model  
- - Multi-channel audio  
- - Drone·Wind noise, SNR  
- - Data augmentation  
- - Microphone array  
- - Mel spectrogram, FFT  
+ a. CNN based DoA model  
+ b. Multi-channel audio  
+ c. Drone·Wind noise, SNR  
+ d. Data augmentation  
+ e. Microphone array  
+ f. Mel spectrogram, FFT  
